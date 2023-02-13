@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SangayWdee
 - 👀 I’m interested in developing web applications. 
-- 🌱 I’m currently learning Angular ans several CSS frameworks. 
+- 🌱 I’m currently learning Angular and several CSS frameworks. 
 - 💞️ I’m looking to collaborate on exciting projects. 
 - 📫 How to reach me? Mail me @ wangdisangay00@gmail.com
 
